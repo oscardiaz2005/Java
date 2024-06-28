@@ -1,0 +1,32 @@
+{
+  "2": {
+    "name": "ice cream choco",
+    "category": "ice cream",
+    "price": 4000.0
+  },
+  "3": {
+    "name": "coca-cola",
+    "category": "drink",
+    "price": 2500.0
+  },
+  "4": {
+    "name": "big mac",
+    "category": "burger",
+    "price": 3630.0000000000005
+  },
+  "5": {
+    "name": "cheese mac",
+    "category": "burger",
+    "price": 1210.0
+  },
+  "6": {
+    "name": "three milk ",
+    "category": "dessert",
+    "price": 4000.0
+  },
+  "7": {
+    "name": "lemon cake",
+    "category": "cake",
+    "price": 5000.0
+  }
+}

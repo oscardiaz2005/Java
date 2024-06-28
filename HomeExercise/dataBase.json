@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "tv oscar",
+    "brand": "LG",
+    "price": 4840
+  },
+  "2": {
+    "name": "juan portatil",
+    "brand": "HP",
+    "price": 2420
+  },
+  "3": {
+    "name": "sebas TV",
+    "brand": "samsung",
+    "price": 1210
+  }
+}
