@@ -1,0 +1,14 @@
+{
+  "1": {
+    "identificacion": "1",
+    "nombre": "oscar",
+    "segundoNombre": "julian",
+    "apellido": "diaz",
+    "segundoApellido": "hernandez",
+    "correo": "oscar@gmail.com",
+    "contraseña": "123",
+    "edad": "18",
+    "nivel": "basico 1",
+    "sede": "madrid"
+  }
+}
