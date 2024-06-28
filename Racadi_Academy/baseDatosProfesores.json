@@ -1,0 +1,12 @@
+{
+  "112312542345": {
+    "identificacion": "112312542345",
+    "nombre": "Andres",
+    "segundoNombre": "Santiago",
+    "apellido": "Martinez",
+    "segundoApellido": "Perez",
+    "correo": "ANdres@gmail.com",
+    "password": "asdasdasd",
+    "edad": 23
+  }
+}

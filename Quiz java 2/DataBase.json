@@ -1,0 +1,86 @@
+{
+  "11": {
+    "name": "prueba",
+    "price": 1000,
+    "stock": 10,
+    "subTotal": 10000,
+    "subTotalIva": 11900.0
+  },
+  "1": {
+    "name": "Apple",
+    "price": 5000,
+    "stock": 25,
+    "subTotal": 125000,
+    "subTotalIva": 148750.0
+  },
+  "2": {
+    "name": "Lemon",
+    "price": 2300,
+    "stock": 15,
+    "subTotal": 34500,
+    "subTotalIva": 41055.0
+  },
+  "3": {
+    "name": "pear",
+    "price": 2700,
+    "stock": 33,
+    "subTotal": 89100,
+    "subTotalIva": 106029.0
+  },
+  "4": {
+    "name": "arandano",
+    "price": 9300,
+    "stock": 5,
+    "subTotal": 46500,
+    "subTotalIva": 55335.0
+  },
+  "5": {
+    "name": "tomatoes",
+    "price": 2100,
+    "stock": 42,
+    "subTotal": 88200,
+    "subTotalIva": 104958.0
+  },
+  "6": {
+    "name": "strawberry",
+    "price": 4100,
+    "stock": 3000,
+    "subTotal": 12300000,
+    "subTotalIva": 1.4637E7
+  },
+  "7": {
+    "name": "ice cream",
+    "price": 450,
+    "stock": 5,
+    "subTotal": 2250,
+    "subTotalIva": 2677.5
+  },
+  "8": {
+    "name": "cookies",
+    "price": 500,
+    "stock": 8,
+    "subTotal": 4000,
+    "subTotalIva": 4760.0
+  },
+  "1000": {
+    "name": "prueba",
+    "price": 1000,
+    "stock": 10,
+    "subTotal": 10000,
+    "subTotalIva": 11900.0
+  },
+  "9": {
+    "name": "prueba",
+    "price": 1000,
+    "stock": 10,
+    "subTotal": 10000,
+    "subTotalIva": 11900.0
+  },
+  "10": {
+    "name": "prueba",
+    "price": 1000,
+    "stock": 10,
+    "subTotal": 10000,
+    "subTotalIva": 11900.0
+  }
+}

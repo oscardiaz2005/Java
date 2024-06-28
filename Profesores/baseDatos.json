@@ -1,0 +1,20 @@
+{
+  "1001204016": {
+    "identificacion": "1001204016",
+    "nombre": "Gabriel",
+    "segundoNombre": "Santiago",
+    "apellido": "Ramirez",
+    "segundoApellido": "Velazco",
+    "correo": "asdqwe@gmail.com",
+    "edad": 34
+  },
+  "123456789": {
+    "identificacion": "123456789",
+    "nombre": "Andres",
+    "segundoNombre": "SAmuel",
+    "apellido": "Ramirez",
+    "segundoApellido": "Velazco",
+    "correo": "asdjhgqwe@gmail.com",
+    "edad": 35
+  }
+}

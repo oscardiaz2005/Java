@@ -1,0 +1,26 @@
+{
+  "1": {
+    "identificacion": "1",
+    "nombre": "oscar",
+    "segundoNombre": "julian",
+    "apellido": "diaz",
+    "segundoApellido": "hernandez",
+    "correo": "oscar@gmail.com",
+    "contraseña": "123",
+    "edad": "18",
+    "nivel": "basico 1",
+    "sede": "madrid"
+  },
+  "2344": {
+    "identificacion": "2344",
+    "nombre": "juan",
+    "segundoNombre": "david",
+    "apellido": "diaz",
+    "segundoApellido": "hernandez",
+    "correo": "juan@gmail.com",
+    "contraseña": "1234",
+    "edad": "21",
+    "nivel": "intermedio",
+    "sede": "faca"
+  }
+}
